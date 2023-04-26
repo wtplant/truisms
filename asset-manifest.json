@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/truisms/static/css/main.c6e84ba6.css",
+    "main.js": "/truisms/static/js/main.8eac7222.js",
+    "static/js/787.bc7d429a.chunk.js": "/truisms/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/truisms/index.html",
+    "main.c6e84ba6.css.map": "/truisms/static/css/main.c6e84ba6.css.map",
+    "main.8eac7222.js.map": "/truisms/static/js/main.8eac7222.js.map",
+    "787.bc7d429a.chunk.js.map": "/truisms/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6e84ba6.css",
+    "static/js/main.8eac7222.js"
+  ]
+}
