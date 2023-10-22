@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## *You have to run everything locally to push changes*
+## *You have to run everything locally to push changes?*
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
