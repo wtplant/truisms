@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 ## *You have to run everything locally to push changes?*
+*interestingly I made changes from my local directory, and they were merged to the main branch in 
+github, however I did not receive attribution, addtionally I wasn't asked for any credentials, which is 
+interesting, as I don't recall how I'm connected to origin main, will continue to investigate.*
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
