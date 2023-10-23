@@ -9,7 +9,12 @@
   align-items: center;
   height: 100vh;
 }
-
+.secondary-font {
+  font-size: 0.25em; /* Adjust the value to your desired size */
+  font-weight: normal; /* Adjust if needed */
+  font-family: 'Roboto', sans-serif; /* Keeping the same font, but you can change if needed */
+  color: rgba(255, 255, 255, 0.684); /* Keeping the same color as .App, but you can change if needed */
+}
 form {
   display: flex;
   flex-direction: column;
