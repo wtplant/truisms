@@ -5,7 +5,7 @@
 github, however I did not receive attribution, addtionally I wasn't asked for any credentials, which is 
 interesting, as I don't recall how I'm connected to origin main, will continue to investigate.*
 
-**THE BUILD IT RUN FROM THE [gh-pages](https://github.com/wtplant/truisms/settings/pages)**
+**THE BUILD IT RUN FROM THE [gh-pages](https://github.com/wtplant/truisms/settings/pages) BRANCH**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
