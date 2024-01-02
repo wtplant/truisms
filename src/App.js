@@ -37,7 +37,7 @@ function App() {
             value={answer}
             onChange={(e) => setAnswer(e.target.value)}
           />
-          <p className="secondary-font">All responses are from Jen Holzer's work "Truisms".</p>
+          <p className="secondary-font">All responses are from Jen Holzer's work <a href="https://www.moma.org/collection/works/63755" target="_blank" rel="noopener noreferrer">"Truisms"</a>.</p>
         </form>
       )}
       {output && <div>{output}</div>}
